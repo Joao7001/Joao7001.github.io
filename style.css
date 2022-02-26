@@ -36,10 +36,9 @@ body {
   background-color: #fca311;
   color: #ffffff;
   text-decoration: none;
-  padding: 4px;
+  padding: 5px;
   border-radius: 5px;
   margin: 3%;
-  box-shadow: 10px -3px teal;
 }
 .sobre {
   padding: 30px 70px;
