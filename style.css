@@ -36,9 +36,9 @@ body {
   background-color: #fca311;
   color: #ffffff;
   text-decoration: none;
-  padding: 5px;
-  border-radius: 5px;
-  margin: 3%;
+  padding: 8px;
+  border-radius: 8px;
+  margin: auto;
 }
 .sobre {
   padding: 30px 70px;
@@ -54,6 +54,11 @@ body {
 }
 .sobre h2 {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.aling {
+display: block;
+width: 290px;
+margin: 5px auto;
 }
 p,
 li {
