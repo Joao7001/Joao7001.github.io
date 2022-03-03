@@ -34,7 +34,7 @@ body {
 }
 .button {
   background-color: #fca311;
-  color: #fbf8f8;
+  color: #ffffff;
   text-decoration: none;
   padding: 5px;
   border-radius: 5px;
@@ -51,6 +51,9 @@ body {
 }
 .sobre li {
   color: #ffffff;
+}
+.sobre h2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 p,
 li {
